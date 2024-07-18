@@ -1,3 +1,6 @@
+# Project Finance Data Analysis
+Source: [FinanceDataReader](https://github.com/FinanceData/FinanceDataReader?tab=readme-ov-file)
+
 # Quick Instruction
 
  ```python:
