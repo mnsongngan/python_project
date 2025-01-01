@@ -1,13 +1,14 @@
-# [Python] Cohort Analysis: Customer Retention, Segment by Quantity and Revenue
+# Analyzing Customer Cohort with Python: Segment by Quantity and Revenue
 
 ## I. Introduction
 
 ### 1. Business Questions
-Using Python to create time-based cohorts analysis that allows stakeholders to assess and compare retention, order items quantity and order revenue from different cohorts of customer to optimize and tailor products and services offers to these specific cohorts.
+Specify different cohorts of customers using Python to create time-based cohort analysis, for optimizing products and services offered to these groups
 
 ### 2. About the Dataset
 
-The dataset is from Kaggle ([Link](https://www.kaggle.com/datasets/ytgangster/online-sales-in-usa)), consists of 36 columns and 286392 entries, records online sales data of different products, several merchandise and electronic in different states in USA from October 2020 to September 2021. 
+The dataset is from [Kaggle] (https://www.kaggle.com/datasets/ytgangster/online-sales-in-usa), about the sales of different products, several merchandise and electronic in different states. Since a huge chunk of the people who have access to internet is switching to online shopping, large retailers are actively searching for ways to increase their profit. Sales analysis is one such key techniques used by large retailers to to increase sales by understanding the customers' purchasing behavior & patterns. 
+* Including 36 columns and 286392 entries, from October 2020 to September 2021. 
 
 Overview of dataset:
 
